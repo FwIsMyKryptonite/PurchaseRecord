@@ -1,0 +1,8 @@
+G:\0413ForWork\PurchaseRecord\PurchaseCommon\bin\Debug\PurchaseCommon.dll
+G:\0413ForWork\PurchaseRecord\PurchaseCommon\bin\Debug\PurchaseCommon.pdb
+G:\0413ForWork\PurchaseRecord\PurchaseCommon\obj\Debug\PurchaseCommon.dll
+G:\0413ForWork\PurchaseRecord\PurchaseCommon\obj\Debug\PurchaseCommon.pdb
+C:\Users\Administrator\Desktop\PurchaseRecord\PurchaseRecord\PurchaseCommon\bin\Debug\PurchaseCommon.dll
+C:\Users\Administrator\Desktop\PurchaseRecord\PurchaseRecord\PurchaseCommon\bin\Debug\PurchaseCommon.pdb
+C:\Users\Administrator\Desktop\PurchaseRecord\PurchaseRecord\PurchaseCommon\obj\Debug\PurchaseCommon.dll
+C:\Users\Administrator\Desktop\PurchaseRecord\PurchaseRecord\PurchaseCommon\obj\Debug\PurchaseCommon.pdb
